@@ -25,7 +25,7 @@
     "mineflayer-navigate": "0.0.10",
     "mineflayer-radar": "0.0.2",
     "request": "^2.83.0",
-    "socket.io-client": "^2.0.4",
+    "socket.io-client": "^2.4.0",
     "underscore": "^1.8.3",
 
 
